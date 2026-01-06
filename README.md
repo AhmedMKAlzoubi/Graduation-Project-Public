@@ -24,8 +24,5 @@ This project is a smart helmet system that integrates an ESP32 microcontroller w
 ### Mobile App
 Built with React and Capacitor for iOS and Android compatibility.
 
-## Installation & Setup
-[Instructions to be added]
-
 ## License
-[License information to be added]
+N/A
