@@ -1,0 +1,8 @@
+{
+  "name": " Smart Helmet Navigation (the final version)",
+  "description": "A web app for turn-by-turn navigation that sends directions to a smart helmet via Bluetooth Low Energy (BLE) and provides AI-powered place suggestions.",
+  "requestFramePermissions": [
+    "geolocation",
+    "bluetooth"
+  ]
+}
