@@ -14,15 +14,20 @@ This project is a smart helmet system that integrates an ESP32 microcontroller w
 - **Frontend**: React with Capacitor
 - **Communication**: WiFi/Bluetooth
 
-## Getting Started
-
 ### Hardware Requirements
-- ESP32 development board
-- Smart helmet components
-- Wireless communication modules
+- ESP32 DevKit-V1
+- MPU6050
+- TTP223
+- PB0A
+- ADS115
+- Li Polymer 5000mah battery
+
 
 ### Mobile App
 Built with React and Capacitor for iOS and Android compatibility.
+
+## Lab Test Video
+https://youtube.com/shorts/MDtAqIwwyvM?si=ONj2__RXIM3j2dEX
 
 ## License
 N/A
